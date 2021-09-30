@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<database>
+    <gadgets>
+        <computers>
+            <desktopComputer name = "Jet Gamer" cost = "2285.74" weight = "4.6"/>
+            <desktopComputer name = "Jet Wizard" cost = "2156.56" weight = "4.9"/>
+            <notebook name = "Asus ROG Strix G15" cost = "2945" weight = "2.3"/>
+            <notebook name = "Asus VivoBook 15" cost = "2945" weight = "2.5"/>
+        </computers>
+        <devices>
+            <reader name = "Amazon Kindle 2019" cost = "292" weight = "0.174"/>
+            <reader name = "PocketBook 616" cost = "299" weight = "0.211"/>
+            <smartphone name = "Galaxy Z Flip3" cost = "3125" weight = "0.183"/>
+            <smartphone name = "Honor 10X lite" cost = "529" weight = "0.164"/>
+        </devices>
+    </gadgets>
+</database>
